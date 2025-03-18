@@ -1,0 +1,9 @@
+<ul class="list-group">
+    <li class="list-group-item">
+        <button [routerLink]="['item', 'new']" class="btn btn-primary">Create New</button>
+    </li>
+    <li *ngFor="let item of items$ | async" class="list-group-item">
+        <app-shop-item [item]="item"></app-shop-item>
+    </li>
+</ul>
+

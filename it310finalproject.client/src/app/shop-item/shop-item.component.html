@@ -1,0 +1,6 @@
+<div class="shop-item">
+    <div>{{item.quantity}}</div>
+    <div>{{item.name}}</div>
+    <button class="btn btn-danger" (click)="onDelete()">Remove</button>
+    <button [routerLink]="['item', 'edit', item.id]" class="btn btn-primary">Edit</button>
+</div>

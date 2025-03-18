@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "IGx4lI+YdEjv7CKMBTmJFmWxNAlNCdjj6G0UDWejjsc=",
+  "Source": "IT310FinalProject.Server",
+  "BasePath": "_content/IT310FinalProject.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\babyb\\source\\repos\\IT310FinalProject\\it310finalproject.client\\it310finalproject.client.esproj",
+      "Version": 2,
+      "Source": "it310finalproject.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

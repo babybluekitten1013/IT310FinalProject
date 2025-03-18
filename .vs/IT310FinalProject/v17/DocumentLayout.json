@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\babyb\\source\\repos\\IT310FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{899E3939-A880-4306-A2CB-34464E0C788B}|IT310FinalProject.Server\\IT310FinalProject.Server.csproj|c:\\users\\babyb\\source\\repos\\it310finalproject\\it310finalproject.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{899E3939-A880-4306-A2CB-34464E0C788B}|IT310FinalProject.Server\\IT310FinalProject.Server.csproj|solutionrelative:it310finalproject.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E3939-A880-4306-A2CB-34464E0C788B}|IT310FinalProject.Server\\IT310FinalProject.Server.csproj|c:\\users\\babyb\\source\\repos\\it310finalproject\\it310finalproject.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899E3939-A880-4306-A2CB-34464E0C788B}|IT310FinalProject.Server\\IT310FinalProject.Server.csproj|solutionrelative:it310finalproject.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899E3939-A880-4306-A2CB-34464E0C788B}|IT310FinalProject.Server\\IT310FinalProject.Server.csproj|c:\\users\\babyb\\source\\repos\\it310finalproject\\it310finalproject.server\\it310finalproject.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{899E3939-A880-4306-A2CB-34464E0C788B}|IT310FinalProject.Server\\IT310FinalProject.Server.csproj|solutionrelative:it310finalproject.server\\it310finalproject.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\babyb\\source\\repos\\IT310FinalProject\\IT310FinalProject.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "IT310FinalProject.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\babyb\\source\\repos\\IT310FinalProject\\IT310FinalProject.Server\\appsettings.json",
+              "RelativeToolTip": "IT310FinalProject.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T19:23:09.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\babyb\\source\\repos\\IT310FinalProject\\IT310FinalProject.Server\\Program.cs",
+              "RelativeDocumentMoniker": "IT310FinalProject.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\babyb\\source\\repos\\IT310FinalProject\\IT310FinalProject.Server\\Program.cs*",
+              "RelativeToolTip": "IT310FinalProject.Server\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:22:54.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IT310FinalProject.Server",
+              "DocumentMoniker": "C:\\Users\\babyb\\source\\repos\\IT310FinalProject\\IT310FinalProject.Server\\IT310FinalProject.Server.csproj",
+              "RelativeDocumentMoniker": "IT310FinalProject.Server\\IT310FinalProject.Server.csproj",
+              "ToolTip": "C:\\Users\\babyb\\source\\repos\\IT310FinalProject\\IT310FinalProject.Server\\IT310FinalProject.Server.csproj",
+              "RelativeToolTip": "IT310FinalProject.Server\\IT310FinalProject.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T19:22:36.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
